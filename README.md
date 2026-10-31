@@ -16,7 +16,7 @@ My interests span **Human–AI Interaction**, **agentic systems**, **human-cente
 | **Currently** | Technical Editor, **Journal of Innovative Information and Communication Technology (JIICT)**. I'm **Product Lead at [Zhongguo.dev](https://zhongguo.dev)**, a bilingual initiative connecting China's developer ecosystem with a global audience. |
 | **2023–2026** | Chair of the **Technical Support Committee** for the International Conference on Emerging Smart Technologies and Applications (**eSmarTA**); committee member from 2021 to 2026. |
 | **2021–present** | Volunteer **Technical Lead** at the Yemeni Organization for Science and Technology Research (**Yemen Research**), leading web and technical initiatives. |
-| **2020–2023** | **UX Engineer & Head of Design**, **Tektonic Labs**. Worked across interaction design and web engineering for telecommunications, aviation, and event-related digital products—from multi-branch customer service workflows and analytical dashboards to the SITEX exhibition website. |
+| **2020–2023** | **UX Engineer & Head of Design**, **Tektonic Labs**. Worked across UX engineering, interaction design, and web development, contributing to complex digital products across telecommunications, aviation, and technology sectors, including enterprise management systems, data-driven applications, and interactive web experiences. |
 | **2016–2022** | Taught and mentored learners in visual design, UX/UI design, and related technical programs through educational institutions and training initiatives. |
 | **2015–2020** | Worked independently as a **Freelance Graphic Designer** on branding and advertising design for government, academic, and other clients. |
 
