@@ -1,37 +1,40 @@
 # Ahmed N. Hassan
 
-**AI Engineer & Researcher · UX Engineer**
+**AI & UX Engineer**
 
-I work at the intersection of AI, design, and software engineering, with a focus on building intelligent systems and digital experiences that make sense to people.
+I work at the intersection of artificial intelligence, design, and software engineering, with a focus on building intelligent systems and meaningful digital experiences.
 
-I'm currently pursuing a **PhD in Artificial Intelligence** at **Nanjing University of Information Science and Technology (NUIST)**. I previously completed a **Master's in Computer Science and Technology** at NUIST, with a research direction in **AI and natural language processing**.
+Currently pursuing a **PhD in Artificial Intelligence** at Nanjing University of Information Science and Technology (NUIST), where I also completed my Master's in Computer Science and Technology.
 
-My interests span **Human–AI Interaction**, **agentic systems**, **human-centered computing**, **UX engineering**, and the connection between visual design and interactive software.
+My interests span **Human–AI Interaction, agentic systems, human-centered computing, UX engineering**, and the intersection of design and technology.
 
 ## My journey
 
 | When | Focus |
 | --- | --- |
-| **Currently** | AI doctoral research at NUIST, exploring intelligent and human-centered systems. My recent co-authored research covers educational question generation with language models and context-aware reinforcement learning for video conferencing. |
-| **Currently** | Technical Editor, **Journal of Innovative Information and Communication Technology (JIICT)**. I'm **Product Lead at [Zhongguo.dev](https://zhongguo.dev)**, a bilingual initiative connecting China's developer ecosystem with a global audience. |
-| **2023–2026** | Chair of the **Technical Support Committee** for the International Conference on Emerging Smart Technologies and Applications (**eSmarTA**); committee member from 2021 to 2026. |
-| **2021–present** | Volunteer **Technical Lead** at the Yemeni Organization for Science and Technology Research (**Yemen Research**), leading web and technical initiatives. |
-| **2020–2023** | **UX Engineer & Head of Design**, **Tektonic Labs**. Worked across UX engineering, interaction design, and web development, contributing to complex digital products across telecommunications, aviation, and technology sectors, including enterprise management systems, data-driven applications, and interactive web experiences. |
-| **2016–2022** | Taught and mentored learners in visual design, UX/UI design, and related technical programs through educational institutions and training initiatives. |
-| **2015–2020** | Worked independently as a **Freelance Graphic Designer** on branding and advertising design for government, academic, and other clients. |
+| **Currently** | Doctoral Researcher in AI at NUIST |
+| **Currently** | Product Lead at [Zhongguo.dev](https://zhongguo.dev) |
+| **Currently** | Technical Editor at JIICT |
+| **2023–2026** | Chair of the Technical Support Committee at eSmarTA; committee member from 2021 to 2026 |
+| **2021–present** | Volunteer Technical Lead at Yemen Research |
+| **2020–2023** | UX Engineer & Head of Design at Tektonic Labs |
+| **2016–2022** | Design and technology instructor and mentor |
+| **2015–2020** | Freelance Graphic Designer |
 
 ## What connects the dots
 
-Across research, product work, and community initiatives, I'm interested in the same question: **How can technically capable systems become genuinely useful, understandable, and approachable?**
+Across research, product development, and design, I'm interested in the same question:
 
-That question shapes the way I explore AI, design interfaces, build web applications, and work across disciplines.
+**How can technically capable systems become genuinely useful, understandable, and approachable?**
+
+That question shapes the way I explore AI, design interfaces, and build software.
 
 ## 中文简介
 
-我是一名人工智能工程师与研究人员，同时也是一名用户体验工程师。目前在南京信息工程大学攻读人工智能博士学位，此前已完成计算机科学与技术硕士学位，研究方向为人工智能与自然语言处理。
+我是一名人工智能与用户体验工程师，目前在南京信息工程大学攻读人工智能博士学位，此前已获得计算机科学与技术硕士学位。
 
-我关注人机智能交互、智能体系统、以人为中心的计算，以及设计与软件工程的融合。目前担任 [Zhongguo.dev](https://zhongguo.dev) 的**产品负责人**，推动中国开发者生态与全球技术社区之间的交流。
+我关注人机智能交互、智能体系统、以人为中心的计算，以及设计与技术的融合。目前担任 [Zhongguo.dev](https://zhongguo.dev) 的产品负责人。
 
 ## Find me elsewhere
 
-[LinkedIn](https://www.linkedin.com/in/hassanydev/) · [X](https://x.com/HassanyDev) · [Behance](https://www.behance.net/HassanyDev) · [Dribbble](https://dribbble.com/HassanyDev)
+[Website](https://hassany.dev) · [LinkedIn](https://www.linkedin.com/in/hassanydev/) · [X](https://x.com/HassanyDev) · [Weibo](https://weibo.com/hassanydev)
